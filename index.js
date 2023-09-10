@@ -37,5 +37,10 @@ function addThree() {
     countGuest.textContent = numG
 }
 
-// window.addOne = addOne
+window.addOne = addOne
+window.addOneH = addOneH
+window.addTwo = addTwo
+window.addTwoH = addTwoH
+window.addThree = addThree
+window.addThreeH = addThreeH
 
