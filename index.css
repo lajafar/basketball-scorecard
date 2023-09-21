@@ -66,7 +66,7 @@ h1 {
 .bg {
     padding: 20px 50px;
     height: 120px;
-    background-image: url("public/images/home-score.svg");
+    background-image: url("/images/home-score.svg");
     background-size: cover;
     border-radius: 5px;
     display: flex;
