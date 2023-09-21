@@ -1,6 +1,6 @@
 
 let numH = 0
-countHome = document.getElementById("counthome")
+let countHome = document.getElementById("counthome")
 countHome.textContent = 0
 
 function addOneH() {
@@ -19,7 +19,7 @@ function addThreeH() {
 }
 
 let numG = 0
-countGuest = document.getElementById("countguest")
+let countGuest = document.getElementById("countguest")
 countGuest.textContent = 0
 
 function addOne() {
@@ -38,10 +38,9 @@ function addThree() {
 }
 
 
-window.addOne = addOne
-window.addOneH = addOneH
-window.addTwo = addTwo
-window.addTwoH = addTwoH
-window.addThree = addThree
-window.addThreeH = addThreeH
-
+// window.addOne = addOne
+// window.addOneH = addOneH
+// window.addTwo = addTwo
+// window.addTwoH = addTwoH
+// window.addThree = addThree
+// window.addThreeH = addThreeH
